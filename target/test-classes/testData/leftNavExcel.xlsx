@@ -1,0 +1,40 @@
+RowId,ParentRowId,Type,Action,Label,Link
+1,,CATEGORY,DROP_DOWN,MEN,
+2,,,MENHOME,HOME,https://genesis.koovs.com/mens
+3,1,,PRODUCT_LISTING,Apparel,https://genesis.koovs.com/category/apparel
+4,1,,BRANDS,BRANDS,https://genesis.koovs.com/brand 
+5,1,,DROP_DOWN,TOPWEAR,
+6,5,,PRODUCT_LISTING,T-Shirt,https://genesis.koovs.com/category/mens-top-wear/t-shirts
+7,5,,PRODUCT_LISTING,Casual Shirt,https://genesis.koovs.com/category/mens-top-wear/casual-shirts
+8,5,,PRODUCT_LISTING,Formal Shirt,https://genesis.koovs.com/category/mens-top-wear/mens-formal-shirts
+9,1,,DROP_DOWN,BOTTOMWEAR,
+10,9,,PRODUCT_LISTING,Jeans,https://genesis.koovs.com/category/mens-bottom-wear/jeans
+11,9,,PRODUCT_LISTING,Casual Trousers,https://genesis.koovs.com/category/mens-bottom-wear/casual-trousers-&-chinos
+12,9,,PRODUCT_LISTING,Track Pants & Joggers,https://genesis.koovs.com/category/mens-bottom-wear/track-pants-&-joggers
+13,1,,DROP_DOWN,FOOTWEAR,
+14,1,,DROP_DOWN,SPORTWEAR,
+15,1,,DROP_DOWN,FASHION ACCESSORIES,
+16,,CATEGORY,DROP_DOWN,WOMEN,
+17,,,WOMENHOME,HOME,https://genesis.koovs.com/womens
+18,16,,PRODUCT_LISTING,Apparel,https://genesis.koovs.com/category/apparel
+19,16,,DROP_DOWN,ETHNIC & FUSION,
+20,19,,PRODUCT_LISTING,Kurtas & Kurtis,https://genesis.koovs.com/category/womens-ethnic-wear/kurtas-and-kurtis/
+21,19,,PRODUCT_LISTING,Tunics & Tops,/category/womens-ethnic-wear/tunics-&-tops
+22,19,,PRODUCT_LISTING,Skirts,https://genesis.koovs.com/category/womens-ethnic-wear/skirts
+23,19,,PRODUCT_LISTING,Palazzos,https://genesis.koovs.com/category/womens-ethnic-wear/palazzos
+24,16,,DROP_DOWN,WESTERN WEAR,
+25,24,,PRODUCT_LISTING,Tops,https://genesis.koovs.com/category/womens-western-wear/tops
+26,24,,PRODUCT_LISTING,T-Shirts,https://genesis.koovs.com/category/womens-western-wear/t-shirts
+27,24,,PRODUCT_LISTING,Jeans & Jeggings,https://genesis.koovs.com/category/womens-western-wear/jeans-and-jeggings
+28,24,,PRODUCT_LISTING,Capris,https://genesis.koovs.com/category/womens-western-wear/capris
+29,24,,PRODUCT_LISTING,Shorts,https://genesis.koovs.com/category/womens-western-wear/shorts
+30,24,,PRODUCT_LISTING,Pants,https://genesis.koovs.com/category/womens-western-wear/pants
+31,24,,PRODUCT_LISTING,Pyjamas,https://genesis.koovs.com/category/womens-western-wear/pyjamas
+32,16,,DROP_DOWN,FOOTWEAR,
+33,16,,DROP_DOWN,JEWELLERY,
+34,,CATEGORY,DROP_DOWN,KIDS,
+35,34,,PRODUCT_LISTING,Apparel,https://genesis.koovs.com/category/apparel
+36,35,,DROP_DOWN,TOPWEAR,
+37,36,,PRODUCT_LISTING,Shirt,https://genesis.koovs.com/kids
+38,,CATEGORY,DROP_DOWN,LUGGAGE,
+39,,CATEGORY,DROP_DOWN,ACCESSORIES,

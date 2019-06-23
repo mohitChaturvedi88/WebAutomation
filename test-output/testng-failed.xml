@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite thread-count="10" guice-stage="DEVELOPMENT" name="Failed suite [Suite]" parallel="classes">
+  <listeners>
+    <listener class-name="com.koovs.web_automation.CustomListeners.CustomListeners"/>
+  </listeners>
+  <test name="Test(failed)" parallel="classes">
+    <classes>
+      <class name="com.koovs.web_automation.TestCases.Test_KoovsLandingPage">
+        <methods>
+          <include name="afterTest"/>
+          <include name="beforeMethod"/>
+          <include name="verifyCODbannerLinkTest"/>
+          <include name="verifyKoovsLogoTest"/>
+          <include name="beforeClass"/>
+          <include name="afterSuite"/>
+          <include name="beforeTest"/>
+          <include name="afterMethod"/>
+          <include name="beforeSuite"/>
+          <include name="afterClass"/>
+        </methods>
+      </class> <!-- com.koovs.web_automation.TestCases.Test_KoovsLandingPage -->
+    </classes>
+  </test> <!-- Test(failed) -->
+</suite> <!-- Failed suite [Suite] -->

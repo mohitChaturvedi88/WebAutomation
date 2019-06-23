@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="38503" started-at="2019-06-18T19:29:12Z" finished-at="2019-06-18T19:29:50Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="38503" started-at="2019-06-18T19:29:12Z" finished-at="2019-06-18T19:29:50Z">
+      <class name="com.koovs.web_automation.TestCases.Test_KoovsLandingPage">
+        <test-method status="PASS" signature="beforeSuite()[pri:0, instance:com.koovs.web_automation.TestCases.Test_KoovsLandingPage@49438269]" name="beforeSuite" is-config="true" duration-ms="219" started-at="2019-06-19T00:59:11Z" finished-at="2019-06-19T00:59:12Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeSuite -->
+        <test-method status="PASS" signature="beforeTest()[pri:0, instance:com.koovs.web_automation.TestCases.Test_KoovsLandingPage@49438269]" name="beforeTest" is-config="true" duration-ms="5" started-at="2019-06-19T00:59:12Z" finished-at="2019-06-19T00:59:12Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method status="PASS" signature="beforeClass()[pri:0, instance:com.koovs.web_automation.TestCases.Test_KoovsLandingPage@49438269]" name="beforeClass" is-config="true" duration-ms="4" started-at="2019-06-19T00:59:12Z" finished-at="2019-06-19T00:59:12Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method status="PASS" signature="beforeMethod(java.lang.reflect.Method)[pri:0, instance:com.koovs.web_automation.TestCases.Test_KoovsLandingPage@49438269]" name="beforeMethod" is-config="true" duration-ms="17562" started-at="2019-06-19T00:59:12Z" finished-at="2019-06-19T00:59:29Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.koovs.web_automation.TestCases.Test_KoovsLandingPage.verifyCODbannerLinkTest()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="verifyCODbannerLinkTest()[pri:0, instance:com.koovs.web_automation.TestCases.Test_KoovsLandingPage@49438269]" name="verifyCODbannerLinkTest" duration-ms="5734" started-at="2019-06-19T00:59:29Z" finished-at="2019-06-19T00:59:35Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyCODbannerLinkTest -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:com.koovs.web_automation.TestCases.Test_KoovsLandingPage@49438269]" name="afterMethod" is-config="true" duration-ms="1662" started-at="2019-06-19T00:59:35Z" finished-at="2019-06-19T00:59:37Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="beforeMethod(java.lang.reflect.Method)[pri:0, instance:com.koovs.web_automation.TestCases.Test_KoovsLandingPage@49438269]" name="beforeMethod" is-config="true" duration-ms="12469" started-at="2019-06-19T00:59:37Z" finished-at="2019-06-19T00:59:49Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.koovs.web_automation.TestCases.Test_KoovsLandingPage.verifyKoovsLogoTest()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="verifyKoovsLogoTest()[pri:0, instance:com.koovs.web_automation.TestCases.Test_KoovsLandingPage@49438269]" name="verifyKoovsLogoTest" duration-ms="237" started-at="2019-06-19T00:59:49Z" finished-at="2019-06-19T00:59:49Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyKoovsLogoTest -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:com.koovs.web_automation.TestCases.Test_KoovsLandingPage@49438269]" name="afterMethod" is-config="true" duration-ms="804" started-at="2019-06-19T00:59:49Z" finished-at="2019-06-19T00:59:50Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="afterTest()[pri:0, instance:com.koovs.web_automation.TestCases.Test_KoovsLandingPage@49438269]" name="afterTest" is-config="true" duration-ms="0" started-at="2019-06-19T00:59:50Z" finished-at="2019-06-19T00:59:50Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+        <test-method status="PASS" signature="afterClass()[pri:0, instance:com.koovs.web_automation.TestCases.Test_KoovsLandingPage@49438269]" name="afterClass" is-config="true" duration-ms="0" started-at="2019-06-19T00:59:50Z" finished-at="2019-06-19T00:59:50Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+        <test-method status="PASS" signature="afterSuite()[pri:0, instance:com.koovs.web_automation.TestCases.Test_KoovsLandingPage@49438269]" name="afterSuite" is-config="true" duration-ms="0" started-at="2019-06-19T00:59:50Z" finished-at="2019-06-19T00:59:50Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterSuite -->
+      </class> <!-- com.koovs.web_automation.TestCases.Test_KoovsLandingPage -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
