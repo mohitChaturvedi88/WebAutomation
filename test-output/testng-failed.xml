@@ -11,7 +11,6 @@
           <include name="afterTest"/>
           <include name="beforeMethod"/>
           <include name="verifyCODbannerLinkTest"/>
-          <include name="verifyKoovsLogoTest"/>
           <include name="beforeClass"/>
           <include name="afterSuite"/>
           <include name="beforeTest"/>

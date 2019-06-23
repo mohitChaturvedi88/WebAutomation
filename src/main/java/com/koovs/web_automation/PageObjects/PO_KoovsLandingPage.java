@@ -1,14 +1,11 @@
 package com.koovs.web_automation.PageObjects;
 
-import org.openqa.selenium.By;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.support.FindBy;
 import org.openqa.selenium.support.ui.ExpectedCondition;
 import org.openqa.selenium.support.ui.ExpectedConditions;
 
-import com.koovs.web_automation.TestCases.Test_KoovsLandingPage;
 import com.koovs.web_automation.TestUtils.BasePage;
-import com.koovs.web_automation.TestUtils.DriverManager;
 
 public class PO_KoovsLandingPage extends BasePage {
 

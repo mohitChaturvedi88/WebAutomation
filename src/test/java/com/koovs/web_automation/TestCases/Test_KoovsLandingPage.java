@@ -10,7 +10,6 @@ import org.openqa.selenium.WebElement;
 import org.testng.Assert;
 import org.testng.annotations.Test;
 
-import com.koovs.web_automation.PageObjects.FacebookLandingPage;
 import com.koovs.web_automation.PageObjects.PO_KoovsLandingPage;
 import com.koovs.web_automation.PageObjects.PO_Shipping_Return_Information;
 import com.koovs.web_automation.TestUtils.DriverManager;
@@ -24,7 +23,7 @@ import com.koovs.web_automation.setUp.TestSetUp;
 public class Test_KoovsLandingPage extends TestSetUp {
 
 	
-	/*@Test
+	@Test
 	public void verifyKoovsLogoTest() {
 		assignAuthor("Mohit Chaturvedi");
 		assignCategory("Regression");
@@ -41,10 +40,10 @@ public class Test_KoovsLandingPage extends TestSetUp {
 		Assert.assertTrue(
 				shipping_return_information.shipping_retunrn_heading().contains("SHIPPING & RETURN INFORMATION"));
 
-	}*/
+	}
 	
 	
-	
+	/*
 	@Test(dataProviderClass = TestUtils.class, dataProvider = "MenuBarData")
 	public void verifyMenuBarWomenTest(Hashtable<String, String> data) throws Exception {
 		assignAuthor("Mohit Chaturvedi");
@@ -73,7 +72,7 @@ public class Test_KoovsLandingPage extends TestSetUp {
 			
 	}
 		
-		
+		*/
 		
 	}
 

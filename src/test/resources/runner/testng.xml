@@ -9,6 +9,7 @@
   <test name="Test">
     <classes>
       <class name="com.koovs.web_automation.TestCases.Test_KoovsLandingPage"/>
+      
     </classes>
   </test> <!-- Test -->
 </suite> <!-- Suite -->
